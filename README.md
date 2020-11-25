@@ -34,5 +34,6 @@ I filtered out all the elite members and summarized they average rating scores t
 ## Cluster and Notebook Configs
 
 ![cluster_configuration](https://user-images.githubusercontent.com/56409800/100276491-a4377b80-2f2f-11eb-9e1b-b4e8fbbb1927.png)
+![notebook_configuration](https://user-images.githubusercontent.com/56409800/100276639-db0d9180-2f2f-11eb-87b8-821425d02dd0.png)
 
 
