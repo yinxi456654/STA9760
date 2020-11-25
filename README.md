@@ -29,9 +29,10 @@ Extra work
 
 Part IV: Should the Elite be Trusted?
 
-I filtered out all the elite members and summarized they average rating scores to different business. Compare with the random review writers' rating scores from last question, I ended up getting the elites' ratings that are really closed to the actual business ratings. So I think they are trust worthy.
+I filtered out all the elite members and summarized they average rating scores to different business. Compare with the random review writers' rating scores from last question, I ended up getting the elites' ratings that are really closed to the actual business ratings. So I think they are trustworthy.
 
 ## Cluster and Notebook Configs
 
-![notebook](https://github.com/mottaquikarim/STA9760_Project2_Yelp_Data_Analysis/blob/master/assets/notebook.png?raw=true)
-![cluster](https://github.com/mottaquikarim/STA9760_Project2_Yelp_Data_Analysis/blob/master/assets/cluster.png?raw=true)
+![cluster_configuration](https://user-images.githubusercontent.com/56409800/100276491-a4377b80-2f2f-11eb-9e1b-b4e8fbbb1927.png)
+
+
