@@ -9,17 +9,23 @@ I analyzed a subset of Yelp's business, reviews and user data. This dataset come
 ## Analysis 
 
 Part I: Installation and Initial Setup
+
 I installed necessary packages such as Pandas, Seaborn and matplotlib. I also imported them as needed. 
 
+
 Part II: Analyzing Categories
+
 I applied my python knowledge to all the questions as needed. Select required columns from original dataset and join them into one dataset for better analysis.
 
+
 Part III: Do Yelp Reviews Skew Negative?
+
 I added an addition column(skew=(row['avg(stars)'] - row['stars']) / row['stars']） to figure out if review writer rating business differently because people are likely to write negative review when they had poor experience with the business. The result is very obvious. Based on my analysism review writers rated business lower than the actual rating.
 
 Extra work
 1. I counted the total number of negative skews and postive skews to prove if my assumption is right. The result is count(negative skew)>count(positive skew).
 2. I also groupby the dataset by business categroies to see which categories are affected the most.
+
 
 Part IV: Should the Elite be Trusted?
 
